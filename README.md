@@ -1,2 +1,1 @@
-# insurance-config-server
-conifig server
+insurance.provider.url=http://localhost:8080/insurance-service/getAllPlans
